@@ -1,2 +1,2 @@
 # git_learning
-learning
+ this is my fist commit code
